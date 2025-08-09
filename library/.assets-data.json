@@ -1,0 +1,146 @@
+{
+  "306da1e0-bd53-4cc6-802a-449006269643": {
+    "url": "db://assets/res",
+    "value": {},
+    "versionCode": 1
+  },
+  "57532fa1-0ccb-4d17-95fc-1f91f1c4fd5f": {
+    "url": "db://assets/textures/background.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "57532fa1-0ccb-4d17-95fc-1f91f1c4fd5f@6c48a": {
+    "url": "db://assets/textures/background.png@6c48a",
+    "value": {
+      "depends": [
+        "57532fa1-0ccb-4d17-95fc-1f91f1c4fd5f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "57532fa1-0ccb-4d17-95fc-1f91f1c4fd5f@f9941": {
+    "url": "db://assets/textures/background.png@f9941",
+    "value": {
+      "depends": [
+        "57532fa1-0ccb-4d17-95fc-1f91f1c4fd5f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3fe97b77-f5de-43bd-99cb-5708e51d8261": {
+    "url": "db://assets/textures/crosses.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "3fe97b77-f5de-43bd-99cb-5708e51d8261@6c48a": {
+    "url": "db://assets/textures/crosses.png@6c48a",
+    "value": {
+      "depends": [
+        "3fe97b77-f5de-43bd-99cb-5708e51d8261"
+      ]
+    },
+    "versionCode": 1
+  },
+  "3fe97b77-f5de-43bd-99cb-5708e51d8261@f9941": {
+    "url": "db://assets/textures/crosses.png@f9941",
+    "value": {
+      "depends": [
+        "3fe97b77-f5de-43bd-99cb-5708e51d8261@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "23da1844-0d08-4452-87cc-f7a87e43856b": {
+    "url": "db://assets/textures/noughts.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "23da1844-0d08-4452-87cc-f7a87e43856b@6c48a": {
+    "url": "db://assets/textures/noughts.png@6c48a",
+    "value": {
+      "depends": [
+        "23da1844-0d08-4452-87cc-f7a87e43856b"
+      ]
+    },
+    "versionCode": 1
+  },
+  "23da1844-0d08-4452-87cc-f7a87e43856b@f9941": {
+    "url": "db://assets/textures/noughts.png@f9941",
+    "value": {
+      "depends": [
+        "23da1844-0d08-4452-87cc-f7a87e43856b@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8e33c99f-b724-4f29-84df-11d2e8138d6f": {
+    "url": "db://assets/textures/grid.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 1
+  },
+  "8e33c99f-b724-4f29-84df-11d2e8138d6f@6c48a": {
+    "url": "db://assets/textures/grid.png@6c48a",
+    "value": {
+      "depends": [
+        "8e33c99f-b724-4f29-84df-11d2e8138d6f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "8e33c99f-b724-4f29-84df-11d2e8138d6f@f9941": {
+    "url": "db://assets/textures/grid.png@f9941",
+    "value": {
+      "depends": [
+        "8e33c99f-b724-4f29-84df-11d2e8138d6f@6c48a"
+      ]
+    },
+    "versionCode": 1
+  },
+  "21b11be7-840a-4324-9c4b-05369972b93f": {
+    "url": "db://assets/TicTacToeGame.ts",
+    "value": {},
+    "versionCode": 1
+  },
+  "c8043bea-fa7e-4a4c-a85b-5f8dcc0a8c53": {
+    "url": "db://assets/scene.scene",
+    "value": {
+      "depends": [
+        "c8043bea-fa7e-4a4c-a85b-5f8dcc0a8c53",
+        "57532fa1-0ccb-4d17-95fc-1f91f1c4fd5f@f9941",
+        "8e33c99f-b724-4f29-84df-11d2e8138d6f@f9941",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "23da1844-0d08-4452-87cc-f7a87e43856b@f9941",
+        "3fe97b77-f5de-43bd-99cb-5708e51d8261@f9941"
+      ],
+      "dependScripts": [
+        "21b11be7-840a-4324-9c4b-05369972b93f"
+      ]
+    },
+    "versionCode": 1
+  },
+  "0beab41c-12a6-42f9-9f93-b95db3b01339": {
+    "url": "db://assets/textures",
+    "value": {},
+    "versionCode": 1
+  },
+  "5bc33c1b-1dd1-42dc-bffe-450e66902ca2": {
+    "url": "db://assets/scripts",
+    "value": {},
+    "versionCode": 1
+  },
+  "7cc6172a-8924-43f6-b3da-baed1254dca9": {
+    "url": "db://assets/scripts/TicTacToeGame.ts",
+    "value": {},
+    "versionCode": 1
+  }
+}
