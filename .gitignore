@@ -1,1 +1,7 @@
-"build/\ntemp/\nlocal/\nlibrary/\n.settings/\n.logs/\n.vscode/" 
+build/ 
+temp/ 
+local/ 
+library/ 
+.settings/ 
+.logs/ 
+.vscode/
